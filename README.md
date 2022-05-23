@@ -4,4 +4,4 @@ Simple memocho app like the iPhone preinstall memo app
 - SwiftUI5
 - Core Data
 
-<img width="800" alt="スクリーンショット 2022-05-23 19 39 25" src="https://user-images.githubusercontent.com/15978091/169804700-d01e5ec1-6cd0-482d-aefd-34f1ac237ddc.png">
+<img width="1000" alt="スクリーンショット 2022-05-23 19 39 25" src="https://user-images.githubusercontent.com/15978091/169804700-d01e5ec1-6cd0-482d-aefd-34f1ac237ddc.png">
